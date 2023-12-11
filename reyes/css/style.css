@@ -1,0 +1,58 @@
+h1 {
+    font-size: 50px;
+    font-family: "Brush Script MT";
+    color: black;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: "Brush Script MT";
+    color: black;
+}
+
+p {
+    font-size: 30px;
+    font-family: "Brush Script MT";
+    color: black;
+}
+
+li {
+    font-size: 30px;
+    font: "Brush Script MT";
+    color: black;
+}
+
+a {
+    color: black;
+    font-family: "Brush Script MT";
+    font-size: 30px;
+}
+
+img {
+    height: 250px;
+}
+
+#borde {
+    width: 100%;
+    height: auto;
+}
+
+header {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+
+main {
+    margin: 10px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
